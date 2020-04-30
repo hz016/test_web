@@ -9,3 +9,8 @@ echo"Funktionierts?";
 
 ?>
 
+<?php
+
+echo"Nochmal ein Test";
+
+?>
